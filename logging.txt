@@ -1,0 +1,188 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "Play House",
+    "phone_number": "(+27) 123 345345",
+    "address": "Durban, KwazuluNatal",
+    "website": null,
+    "language": "Zulu",
+    "location": {
+        "lat": -38.345345,
+        "lng": 3.657567
+    },
+    "types": [
+        "Foot Park",
+        "shop"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Tue, 29 Jun 2021 19:20:57 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "2de87158dd40baa52eeeba580798aeb7",
+    "scope": "APP",
+    "reference": "a8d4e280897412094f95c2a998e23059a8d4e280897412094f95c2a998e23059",
+    "id": "a8d4e280897412094f95c2a998e23059"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "Gateway",
+    "phone_number": "(+27) 123 345345",
+    "address": "Umlanga, KwazuluNatal",
+    "website": null,
+    "language": "English",
+    "location": {
+        "lat": -38.345345,
+        "lng": 3.657567
+    },
+    "types": [
+        "Foot Park",
+        "shop"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Tue, 29 Jun 2021 19:20:59 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "ffb4e193e2f3429970f3c406c2d592ed",
+    "scope": "APP",
+    "reference": "f694020ddb575a8a77def498dcce8043f694020ddb575a8a77def498dcce8043",
+    "id": "f694020ddb575a8a77def498dcce8043"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "Play House",
+    "phone_number": "(+27) 123 345345",
+    "address": "Bay, KwazuluNatal",
+    "website": null,
+    "language": "Afrikaans",
+    "location": {
+        "lat": -38.345345,
+        "lng": 3.657567
+    },
+    "types": [
+        "Foot Park",
+        "shop"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Tue, 29 Jun 2021 19:21:00 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "581a20ee392a44768b300791df3bf2ec",
+    "scope": "APP",
+    "reference": "81cf2ae372e6beb09c06da5a280c1a5381cf2ae372e6beb09c06da5a280c1a53",
+    "id": "81cf2ae372e6beb09c06da5a280c1a53"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "Balito",
+    "phone_number": "(+27) 123 345345",
+    "address": "Umlanga, KwazuluNatal",
+    "website": null,
+    "language": "English",
+    "location": {
+        "lat": -38.345345,
+        "lng": 3.657567
+    },
+    "types": [
+        "Foot Park",
+        "shop"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Tue, 29 Jun 2021 19:21:01 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "ad8769a7966fcdfd2ccc8f675565daff",
+    "scope": "APP",
+    "reference": "54c07cc1163a99357b90eaaa7666289854c07cc1163a99357b90eaaa76662898",
+    "id": "54c07cc1163a99357b90eaaa76662898"
+}
